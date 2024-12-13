@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/ahOyKTw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Within the admin panel, we will click on Agents and go to roles, here you can choose to add a new role for your users and how much access they have.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/vkI3CQC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Within the agent panel, click on Users -> User Directory, from here you are able to add users to the osTicket system.
 </p>
 <br />
 
@@ -50,6 +50,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/tVEFwN7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Within the admin panel, click on Manage -> SLA, from here you are able to create a new SLA and check the status.
 </p>
 <br />
